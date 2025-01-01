@@ -1,6 +1,6 @@
 # Android Development
 
-![Android Development](https://www.flaticon.com/free-icon/android_888839?term=android&page=1&position=3&origin=search&related_id=888839)
+![Android Development](https://developer.android.com/images/android-logo.svg)
 
 ## Overview
 
